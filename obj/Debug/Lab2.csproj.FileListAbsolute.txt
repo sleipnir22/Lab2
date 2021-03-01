@@ -1,0 +1,10 @@
+D:\VisualStudioProjects\Lab2\bin\Debug\Lab2.exe.config
+D:\VisualStudioProjects\Lab2\bin\Debug\Lab2.exe
+D:\VisualStudioProjects\Lab2\bin\Debug\Lab2.pdb
+D:\VisualStudioProjects\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Lab2\obj\Debug\Lab2.Form1.resources
+D:\VisualStudioProjects\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\VisualStudioProjects\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\VisualStudioProjects\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Lab2\obj\Debug\Lab2.exe
+D:\VisualStudioProjects\Lab2\obj\Debug\Lab2.pdb
